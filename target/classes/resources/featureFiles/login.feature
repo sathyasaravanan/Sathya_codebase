@@ -17,6 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 @login
+@automated
 Feature: Login functionality
 	@validlogin
   Scenario: Validate login using valid credentials
